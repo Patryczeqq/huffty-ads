@@ -1,0 +1,15 @@
+{
+    "token": "bot token",
+    "prefix": "bot prefix",
+    "developerzy": [
+        "dev user ID"
+    ],
+    "weryfikatorzy": [
+        "verifier user ID"
+    ],
+    "support": "support invite link",
+    "zaproszenie": "bot invite link",
+    "logch": "public logs channel ID",
+    "errch": "error channel ID",
+    "verch": "verification channel ID"
+}
